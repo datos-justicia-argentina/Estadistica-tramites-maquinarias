@@ -26,23 +26,23 @@ Recursos disponibles
 
 -   **Descripción del contenido:** cantidad de maquinarias 0km inscriptas, por año, mes y provincia
 
--   **Formato:** CSV delimitado por coma, codificado en UTF-8
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
 -   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
--   **tipo\_vehiculo (string):** tipo de vehículo inscripto (maquinaria)
+-   **tipo_vehiculo (string):** tipo de vehículo inscripto (maquinaria)
 
--   **anio\_inscripcion\_inicial (int):** año de Inscripción inicial
+-   **anio_inscripcion_inicial (int):** año de Inscripción inicial
 
--   **mes\_inscripcion\_inicial (int):** mes de Inscripción inicial
+-   **mes_inscripcion_inicial (int):** mes de Inscripción inicial
 
--   **provincia\_inscripcion\_inicial (string):** provincia donde se radicó la Inscripción inicial
+-   **provincia_inscripcion_inicial (string):** provincia donde se radicó la Inscripción inicial
 
--   **letra\_provincia\_inscripcion\_inicial (string):** letra asociada a cada provincia
+-   **letra_provincia_inscripcion_inicial (string):** letra asociada a cada provincia
 
--   **cantidad\_inscripciones\_iniciales (int):** cantidad de vehículos inscriptos
+-   **cantidad_inscripciones_iniciales (int):** cantidad de vehículos inscriptos
 
 ### Estadística de transferencias de Maquinarias
 
@@ -52,23 +52,21 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-<!-- -->
-
 -   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
--   **tipo\_vehiculo (string):** tipo de vehículo transferido (maquinaria)
+-   **tipo_vehiculo (string):** tipo de vehículo transferido (maquinaria)
 
--   **anio\_transferencia (int):** año de transferencia
+-   **anio_transferencia (int):** año de transferencia
 
--   **mes\_transferencia (int):** mes de transferencia
+-   **mes_transferencia (int):** mes de transferencia
 
--   **provincia\_transferencia (string):** provincia donde se efectuó la transferencia
+-   **provincia_transferencia (string):** provincia donde se efectuó la transferencia
 
--   **letra\_provincia\_transferencia (string):** letra asociada a cada provincia
+-   **letra_provincia_transferencia (string):** letra asociada a cada provincia
 
--   **cantidad\_transferencias (int):** cantidad de vehículos transferidos
+-   **cantidad_transferencias (int):** cantidad de vehículos transferidos
 
 ### Notas
 
