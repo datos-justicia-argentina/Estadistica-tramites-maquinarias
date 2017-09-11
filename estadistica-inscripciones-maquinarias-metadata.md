@@ -20,9 +20,9 @@ En este cuerpo de datos se detalla la cantidad de maquinarias 0km inscriptas y m
 Recursos disponibles
 --------------------
 
-### Estadística de Inscripciones Iniciales de Maquinarias
+### Estadística de Inscripciones Iniciales de Maquinarias AAAA-MM
 
--   **Nombre del archivo:** estadistica-inscripciones-iniciales-maquinarias.csv
+-   **Nombre del archivo:** estadistica-inscripciones-iniciales-maquinarias AAAA-MM.csv
 
 -   **Descripción del contenido:** cantidad de maquinarias 0km inscriptas, por año, mes y provincia
 
@@ -44,9 +44,9 @@ Recursos disponibles
 
 -   **cantidad_inscripciones_iniciales (int):** cantidad de vehículos inscriptos
 
-### Estadística de transferencias de Maquinarias
+### Estadística de transferencias de Maquinarias AAAA-MM
 
--   **Nombre del archivo:** estadistica-transferencias-maquinarias.csv
+-   **Nombre del archivo:** estadistica-transferencias-maquinarias AAAA-MM.csv
 
 -   **Descripción del contenido:** cantidad de maquinarias transferidas, por año, mes y provincia
 
