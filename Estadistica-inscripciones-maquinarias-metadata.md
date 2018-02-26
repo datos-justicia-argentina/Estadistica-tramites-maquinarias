@@ -5,7 +5,7 @@ En este cuerpo de datos se detalla la cantidad de maquinarias 0km inscriptas y m
 
 -   **Fecha de Primera Publicación:** 12/07/2016
 
--   **Tags o Etiquetas:** inscripciones iniciales, transferencias, maquinarias, registración, 0km, trámites, registración, registros seccionales
+-   **Tags o Etiquetas:** inscripciones iniciales, transferencias, maquinarias, registración, 0km, trámites, registros seccionales, agrícola, trámites, industriales
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
 
@@ -24,7 +24,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** estadistica-inscripciones-iniciales-maquinarias AAAA-MM.csv
 
--   **Descripción del contenido:** cantidad de maquinarias 0km inscriptas, por año, mes y provincia
+-   **Descripción del contenido:** se detalla la cantidad de maquinarias 0km inscriptas, por año, mes y provincia
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -48,7 +48,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** estadistica-transferencias-maquinarias AAAA-MM.csv
 
--   **Descripción del contenido:** cantidad de maquinarias transferidas, por año, mes y provincia
+-   **Descripción del contenido:** se detalla la cantidad de maquinarias transferidas, por año, mes y provincia
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
