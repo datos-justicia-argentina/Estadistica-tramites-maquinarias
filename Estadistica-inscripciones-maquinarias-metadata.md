@@ -3,6 +3,10 @@ Estadística de Trámites de Maquinarias
 
 En este cuerpo de datos se detalla la cantidad de maquinarias 0km inscriptas y maquinarias transferidas, discriminados por año, mes y provincia a la cual pertenece el registro seccional en el cual se inscribió el trámite. Las maquinarias incluyen maquinarias agrícolas, viales e industriales y comprenden los siguientes tipos: tractor, cosechadora, pulverizadora, sembradora, fumigadora, enfardadora, rotoenfardadora, pavimentadora, aplanadora, pala mecánica, grúa, excavadora, carretón, motoniveladora, cargadora, mototrailla, máquina compactadora, máquina para tratamiento de suelo, autoelevador, motovehículo con dispositivo de enganche, otros.
 
+http://datos.jus.gob.ar/dataset/estadistica-de-tramites-de-maquinarias
+
+Características
+---------------
 -   **Fecha de Primera Publicación:** 12/07/2016
 
 -   **Tags o Etiquetas:** inscripciones iniciales, transferencias, maquinarias, registración, 0km, trámites, registros seccionales, agrícola, trámites, industriales
