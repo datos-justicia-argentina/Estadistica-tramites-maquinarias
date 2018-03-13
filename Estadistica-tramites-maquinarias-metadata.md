@@ -32,7 +32,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** inscripciones de maquinarias desde el año 2000 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -56,7 +56,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** trasnferencias de maquinarias desde el año 2000 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -75,3 +75,5 @@ Recursos disponibles
 ### Notas
 
 La actividad registral de las maquinarias está regulada por el Régimen Jurídico del Automotor ([*Digesto Jurídico del Automotor*](http://www.dnrpa.gov.ar/portal_dnrpa/regimen_juridico/informacion/rja.pdf)) y el Reglamento Interno de Normas Orgánico - Funcionales y Disposiciones Modificatorias ([*Reglamento Interno de Normas Orgánico-Funcionales*](http://www.dnrpa.gov.ar/portal_dnrpa/regimen_juridico/informacion/urinof.htm)).
+
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.
