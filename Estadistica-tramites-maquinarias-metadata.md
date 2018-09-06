@@ -48,7 +48,7 @@ Recursos disponibles
 
 -   **cantidad_inscripciones_iniciales (int):** cantidad de vehículos inscriptos
 
--	  **provincia_indec_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC
+-   **provincia_indec_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC
 
 ### Estadística de transferencias de Maquinarias AAAA-MM
 
@@ -74,7 +74,7 @@ Recursos disponibles
 
 -   **cantidad_transferencias (int):** cantidad de vehículos transferidos
 
--	  **provincia_indec_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC
+-   **provincia_indec_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC
 
 ### Estadística de inscripciones iniciales de maquinarias - AAAA
 
