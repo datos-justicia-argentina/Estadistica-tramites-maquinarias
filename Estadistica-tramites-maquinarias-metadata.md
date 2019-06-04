@@ -24,9 +24,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Estadística de Inscripciones Iniciales de Maquinarias AAAA-MM
+### Estadística de Inscripciones Iniciales de Maquinarias - AAAAMM
 
--   **Nombre del archivo:** estadistica-inscripciones-iniciales-maquinarias AAAA-MM.csv
+-   **Nombre del archivo:** estadistica-inscripciones-iniciales-maquinarias AAAAMM.csv
 
 -   **Descripción del contenido:** se detalla la cantidad de maquinarias 0km inscriptas, por año, mes y provincia
 
