@@ -32,7 +32,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** inscripciones de maquinarias desde el año 2000 hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** inscripciones de maquinarias desde septiembre del año 2013 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -58,7 +58,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** trasnferencias de maquinarias desde el año 2000 hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** trasnferencias de maquinarias desde septiembre del año 2013 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
