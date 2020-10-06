@@ -28,7 +28,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** estadistica-inscripciones-iniciales-maquinarias AAAAMM.csv
 
--   **Descripción del contenido:** Estadística de inscripciones iniciales de maquinarias agrícolas, viales e industriales, por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Contiene datos de trámites desde septiembre de 2013.
+-   **Descripción del contenido:** estadística de inscripciones iniciales de maquinarias agrícolas, viales e industriales, por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Contiene datos de trámites desde septiembre de 2013.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -54,7 +54,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** estadistica-transferencias-maquinarias AAAA-MM.csv
 
--   **Descripción del contenido:** Estadística de transferencias de maquinarias agrícolas, viales e industriales, por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Contiene datos de trámites desde septiembre de 2013.
+-   **Descripción del contenido:** estadística de transferencias de maquinarias agrícolas, viales e industriales, por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Contiene datos de trámites desde septiembre de 2013.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
