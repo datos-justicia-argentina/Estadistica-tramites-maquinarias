@@ -28,7 +28,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** estadistica-inscripciones-iniciales-maquinarias AAAAMM.csv
 
--   **Descripción del contenido:** se detalla la cantidad de maquinarias 0km inscriptas, por año, mes y provincia
+-   **Descripción del contenido:** Estadística de inscripciones iniciales de maquinarias agrícolas, viales e industriales, por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Contiene datos de trámites desde septiembre de 2013.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -54,7 +54,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** estadistica-transferencias-maquinarias AAAA-MM.csv
 
--   **Descripción del contenido:** se detalla la cantidad de maquinarias transferidas, por año, mes y provincia
+-   **Descripción del contenido:** Estadística de transferencias de maquinarias agrícolas, viales e industriales, por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Contiene datos de trámites desde septiembre de 2013.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -76,19 +76,11 @@ Recursos disponibles
 
 -   **provincia_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC (hasta 05/2019 nombre campo provincia_indec_id)
 
-### Estadística de inscripciones iniciales de maquinarias - AAAA
+### Estadística de trámites s de maquinarias - AAAA
 
--   **Nombre:** estadistica-inscripciones-iniciales-maquinarias-AAAA.zip
+-   **Nombre:** estadistica-tramites-maquinarias-AAAA.zip
 
--   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
-
--   **Formato:** ZIP
-
-### Estadística de transferencias de maquinarias - AAAA
-
--   **Nombre:** estadistica-transferencias-maquinarias-AAAA.zip
-
--   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+-   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos de estadísticas de inscripciones iniciales y transferencias de maquinarias publicados en el portal datos.jus.gob.ar durante dicho año
 
 -   **Formato:** ZIP
 
