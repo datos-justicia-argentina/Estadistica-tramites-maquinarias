@@ -24,9 +24,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Estadística de Inscripciones Iniciales de Maquinarias - AAAAMM
+### Estadística de Inscripciones Iniciales de Maquinarias - AAAA
 
--   **Nombre del archivo:** estadistica-inscripciones-iniciales-maquinarias AAAAMM.csv
+-   **Nombre del archivo:** estadistica-inscripciones-iniciales-maquinarias AAAA.csv
 
 -   **Descripción del contenido:** estadística de inscripciones iniciales de maquinarias agrícolas, viales e industriales, por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Contiene datos de trámites desde septiembre de 2013.
 
@@ -50,9 +50,9 @@ Recursos disponibles
 
 -   **provincia_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC (hasta 05/2019 nombre campo provincia_indec_id)
 
-### Estadística de transferencias de Maquinarias AAAA-MM
+### Estadística de transferencias de Maquinarias AAAA
 
--   **Nombre del archivo:** estadistica-transferencias-maquinarias AAAA-MM.csv
+-   **Nombre del archivo:** estadistica-transferencias-maquinarias AAAA.csv
 
 -   **Descripción del contenido:** estadística de transferencias de maquinarias agrícolas, viales e industriales, por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Contiene datos de trámites desde septiembre de 2013.
 
