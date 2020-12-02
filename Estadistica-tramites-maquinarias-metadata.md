@@ -76,7 +76,7 @@ Recursos disponibles
 
 -   **provincia_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC (hasta 05/2019 nombre campo provincia_indec_id)
 
-### Estadística de trámites s de maquinarias - AAAA
+### Estadística de trámites de maquinarias - AAAA
 
 -   **Nombre:** estadistica-tramites-maquinarias-AAAA.zip
 
