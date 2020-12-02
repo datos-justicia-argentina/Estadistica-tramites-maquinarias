@@ -24,7 +24,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Estadística de Inscripciones Iniciales de Maquinarias - AAAA
+### Estadística de Inscripciones Iniciales de Maquinarias - AAAAMM
 
 -   **Nombre del archivo:** estadistica-inscripciones-iniciales-maquinarias AAAA.csv
 
@@ -50,7 +50,7 @@ Recursos disponibles
 
 -   **provincia_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC (hasta 05/2019 nombre campo provincia_indec_id)
 
-### Estadística de transferencias de Maquinarias AAAA
+### Estadística de transferencias de Maquinarias AAAAMM
 
 -   **Nombre del archivo:** estadistica-transferencias-maquinarias AAAA.csv
 
