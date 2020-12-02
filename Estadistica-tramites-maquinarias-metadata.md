@@ -1,4 +1,4 @@
-Estadística de Trámites de Maquinarias
+Estadística de trámites de maquinarias
 ======================================
 
 En este cuerpo de datos se detalla la cantidad de maquinarias 0km inscriptas y maquinarias transferidas, discriminados por año, mes y provincia a la cual pertenece el registro seccional en el cual se inscribió el trámite. Las maquinarias incluyen maquinarias agrícolas, viales e industriales y comprenden los siguientes tipos: tractor, cosechadora, pulverizadora, sembradora, fumigadora, enfardadora, rotoenfardadora, pavimentadora, aplanadora, pala mecánica, grúa, excavadora, carretón, motoniveladora, cargadora, mototrailla, máquina compactadora, máquina para tratamiento de suelo, autoelevador, motovehículo con dispositivo de enganche, otros.
@@ -24,9 +24,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Estadística de Inscripciones Iniciales de Maquinarias - AAAAMM
+### Estadística de inscripciones iniciales de maquinarias - AAAAMM
 
--   **Nombre del archivo:** estadistica-inscripciones-iniciales-maquinarias AAAA.csv
+-   **Nombre del archivo:** estadistica-inscripciones-iniciales-maquinarias-AAAA.csv
 
 -   **Descripción del contenido:** estadística de inscripciones iniciales de maquinarias agrícolas, viales e industriales, por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Contiene datos de trámites desde septiembre de 2013.
 
@@ -50,9 +50,9 @@ Recursos disponibles
 
 -   **provincia_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC (hasta 05/2019 nombre campo provincia_indec_id)
 
-### Estadística de transferencias de Maquinarias AAAAMM
+### Estadística de transferencias de maquinarias - AAAAMM
 
--   **Nombre del archivo:** estadistica-transferencias-maquinarias AAAA.csv
+-   **Nombre del archivo:** estadistica-transferencias-maquinarias-AAAA.csv
 
 -   **Descripción del contenido:** estadística de transferencias de maquinarias agrícolas, viales e industriales, por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Contiene datos de trámites desde septiembre de 2013.
 
