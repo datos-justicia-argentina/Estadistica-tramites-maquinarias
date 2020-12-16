@@ -80,7 +80,7 @@ Recursos disponibles
 
 -   **Nombre:** estadistica-tramites-maquinarias.zip
 
--   **Descripción del contenido:** archivo comprimido que contiene las estadísticas de inscripciones iniciales y transferencias de maquinarias agrícolas, viales e industriales desde septiembre de 2013 hasta la fecha.
+-   **Descripción del contenido:** archivo comprimido que contiene las estadísticas de inscripciones iniciales y transferencias de maquinarias agrícolas, viales e industriales desde MM-AAAA hasta MM-AAAA.
 
 -   **Formato:** ZIP
 
