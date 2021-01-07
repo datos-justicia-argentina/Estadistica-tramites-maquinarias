@@ -50,7 +50,7 @@ Recursos disponibles
 
 -   **provincia_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC
 
-### Estadística de transferencias de maquinarias - AAAAMM - AAAAMM
+### Estadística de transferencias de maquinarias - 201309 - AAAAMM
 
 -   **Nombre del archivo:** estadistica-transferencias-maquinarias-2013-09-AAAA-MM.csv
 
