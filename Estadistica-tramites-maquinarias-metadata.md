@@ -24,7 +24,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Estadística de inscripciones iniciales de maquinarias - AAAAMM - AAAAMM
+### Estadística de inscripciones iniciales de maquinarias - 201309 - AAAAMM
 
 -   **Nombre del archivo:** estadistica-inscripciones-iniciales-maquinarias-2013-09-AAAA-MM.csv
 
